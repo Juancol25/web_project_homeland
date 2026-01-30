@@ -2,19 +2,13 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 984px;
-  height: 983px;
 }
 
 .lead__title {
-  width: 720px;
-  height: 200px;
   font-size: 96px;
   text-align: center;
   line-height: 100px;
   font-weight: bold;
-  margin: 64px 0 32px 0;
-
 }
 
 .lead__subtitle {
@@ -22,15 +16,12 @@
   text-align: center;
   line-height: 36px;
   max-width: 720px;
-  margin: 0 0 64px 0;
 }
 
 .lead__imagen {
-  max-width: 984px;
-  width: 100%;
-  display: block;
-  margin: 0 auto 92px;
-  object-fit: cover;
+  height: 615px;
+  width: 984px;
+  margin-top: 64px;
 }
 
 /* <!-- MEDIUM --> */ 

@@ -5,10 +5,9 @@
   align-self: flex-start;
 }
 .section__title {
-  font-weight: 900;
   font-size: 54px;
-  line-height: 1.07;
-  margin-bottom: 16px;
+  line-height: 54px;
+  margin: 0%;
 }
 
 .section__text_size_big {
