@@ -1,7 +1,7 @@
 # Web Project Homeland
 
 # Descripción
-Proyecto de diseño web responsivo para adaptar el contenido correctamente a desktop, tablet.
+Proyecto de diseño web responsivo para adaptar el contenido correctamente a desktop, tablet y movil.
 
 # Autor
 Juan Diego Pardo
@@ -11,3 +11,4 @@ Juan Diego Pardo
 - CSS3
 - Metodología BEM
 - Diseño responsivo (media queries)
+- CSS Grid
